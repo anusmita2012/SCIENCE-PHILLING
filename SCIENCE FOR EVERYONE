@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Educational Website</title>
+  </head>
+  <body>
+    <header>
+      <h1>My Educational Website</h1>
+    </header>
+    <nav>
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About Us</a></li>
+        <li><a href="#">Courses</a></li>
+        <li><a href="#">Contact Us</a></li>
+      </ul>
+    </nav>
+    <main>
+      <section>
+        <h2>Welcome to My Educational Website</h2>
+        <p>Here you will find a wide range of courses and resources to help you learn and grow.</p>
+      </section>
+    </main>
+    <footer>
+      <p>&copy; 2023 My Educational Website. All rights reserved.</p>
+    </footer>
+  </body>
+</html>
